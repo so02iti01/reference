@@ -20,3 +20,6 @@ docker run --name reference -itd -p 9667:3000 wcjiang/reference:latest
 ```bash
 http://localhost:9667/
 ```
+
+## Vercel
+如果你有资源，可以很方便部署 web 版，这非常简单，只需要克隆 gh-pages 分支代码到你的静态服务就可以了
