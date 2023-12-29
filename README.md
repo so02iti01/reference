@@ -2,6 +2,7 @@ Quick Reference
 ===
 
 <!--rehype:ignore:start-->
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor)
 [![CI](https://github.com/jaywcjlove/reference/actions/workflows/ci.yml/badge.svg)](https://github.com/jaywcjlove/reference/actions/workflows/ci.yml)
 [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
@@ -35,6 +36,7 @@ Quick Reference
 [Oracle](./docs/oracle.md)<!--rehype:style=background: rgb(255 0 0);&class=contributing tag&data-lang=SQL-->  
 [Pytorch](./docs/pytorch.md)<!--rehype:style=background: rgb(238 76 44);&class=contributing tag&data-lang=Python&data-info=👆看看还缺点儿什么？-->  
 [Vue 3](./docs/vue.md)<!--rehype:style=background: rgb(64 184 131);&class=contributing-->  
+[Github Copilot](./docs/github-copilot.md)<!--rehype:style=background: rgb(125 45 220);&class=tag contributing&data-lang=AI&data-info=👆看看还缺点儿什么？-->
 <!--rehype:class=home-card-->
 
 ## 编程
@@ -250,6 +252,9 @@ Quick Reference
 <a href="https://github.com/mofelee" title="mofelee">
   <img src="https://avatars.githubusercontent.com/u/5069410?v=4" width="42;" alt="mofelee"/>
 </a>
+<a href="https://github.com/Country-If" title="Maylon">
+  <img src="https://avatars.githubusercontent.com/u/62837275?v=4" width="42;" alt="Maylon"/>
+</a>
 <a href="https://github.com/JeffersonHuang" title="Jefferson Huang">
   <img src="https://avatars.githubusercontent.com/u/47512530?v=4" width="42;" alt="Jefferson Huang"/>
 </a>
@@ -262,6 +267,9 @@ Quick Reference
 <a href="https://github.com/LufsX" title="LufsX">
   <img src="https://avatars.githubusercontent.com/u/33221883?v=4" width="42;" alt="LufsX"/>
 </a>
+<a href="https://github.com/mailbaoer" title="baoer">
+  <img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/>
+</a>
 <a href="https://github.com/expoli" title="expoli">
   <img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/>
 </a>
@@ -271,14 +279,8 @@ Quick Reference
 <a href="https://github.com/eryajf" title="二丫讲梵">
   <img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/>
 </a>
-<a href="https://github.com/Country-If" title="Maylon">
-  <img src="https://avatars.githubusercontent.com/u/62837275?v=4" width="42;" alt="Maylon"/>
-</a>
 <a href="https://github.com/LiuYuan-SHU" title="Yuan Liu">
   <img src="https://avatars.githubusercontent.com/u/96400967?v=4" width="42;" alt="Yuan Liu"/>
-</a>
-<a href="https://github.com/mailbaoer" title="baoer">
-  <img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/>
 </a>
 <a href="https://github.com/chaos-cn" title="chaos">
   <img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/>
@@ -304,6 +306,9 @@ Quick Reference
 <a href="https://github.com/XYZscratcher" title="XYZ">
   <img src="https://avatars.githubusercontent.com/u/108533817?v=4" width="42;" alt="XYZ"/>
 </a>
+<a href="https://github.com/greyhao" title="greyhao">
+  <img src="https://avatars.githubusercontent.com/u/107107440?v=4" width="42;" alt="greyhao"/>
+</a>
 <a href="https://github.com/1834423612" title="kjch">
   <img src="https://avatars.githubusercontent.com/u/49981661?v=4" width="42;" alt="kjch"/>
 </a>
@@ -327,6 +332,9 @@ Quick Reference
 </a>
 <a href="https://github.com/wsypower" title="魏">
   <img src="https://avatars.githubusercontent.com/u/31298317?v=4" width="42;" alt="魏"/>
+</a>
+<a href="https://github.com/lvelvee" title="Lve Lvee">
+  <img src="https://avatars.githubusercontent.com/u/25785753?v=4" width="42;" alt="Lve Lvee"/>
 </a>
 <a href="https://github.com/13812700839" title="花殇">
   <img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/>
@@ -403,6 +411,9 @@ Quick Reference
 <a href="https://github.com/HanaNoryu" title="Noryu">
   <img src="https://avatars.githubusercontent.com/u/109856546?v=4" width="42;" alt="Noryu"/>
 </a>
+<a href="https://github.com/PILIHU2022" title="PILIHU2022">
+  <img src="https://avatars.githubusercontent.com/u/100511118?v=4" width="42;" alt="PILIHU2022"/>
+</a>
 <a href="https://github.com/Perzch" title="Perzch">
   <img src="https://avatars.githubusercontent.com/u/67987641?v=4" width="42;" alt="Perzch"/>
 </a>
@@ -457,6 +468,9 @@ Quick Reference
 <a href="https://github.com/Lmmmmmm-bb" title="_lmmmmmm">
   <img src="https://avatars.githubusercontent.com/u/54026110?v=4" width="42;" alt="_lmmmmmm"/>
 </a>
+<a href="https://github.com/zlfyuan" title="bgbgPang">
+  <img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/>
+</a>
 <a href="https://github.com/chyok" title="chyok">
   <img src="https://avatars.githubusercontent.com/u/32629225?v=4" width="42;" alt="chyok"/>
 </a>
@@ -477,9 +491,6 @@ Quick Reference
 </a>
 <a href="https://github.com/godotc" title="godot42">
   <img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godot42"/>
-</a>
-<a href="https://github.com/greyhao" title="greyhao">
-  <img src="https://avatars.githubusercontent.com/u/107107440?v=4" width="42;" alt="greyhao"/>
 </a>
 <a href="https://github.com/sunny0826" title="Xudong Guo">
   <img src="https://avatars.githubusercontent.com/u/24563928?v=4" width="42;" alt="Xudong Guo"/>
@@ -504,6 +515,9 @@ Quick Reference
 </a>
 <a href="https://github.com/joyfully-W" title="joyfully-W">
   <img src="https://avatars.githubusercontent.com/u/32212924?v=4" width="42;" alt="joyfully-W"/>
+</a>
+<a href="https://github.com/jussker" title="jussker">
+  <img src="https://avatars.githubusercontent.com/u/33953356?v=4" width="42;" alt="jussker"/>
 </a>
 <a href="https://github.com/k983551019" title="k983551019">
   <img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="k983551019"/>
@@ -595,6 +609,7 @@ Quick Reference
 
 由于中国国内访问，时常打不开，你可以访问下面镜像网站(国内打不开的不再收录)。推荐自己的[镜像网站](https://github.com/jaywcjlove/reference/discussions/206#discussion-4625735)
 
+[dev.bi](https://dev.bi)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [server.wiki](https://ref.server.wiki)<!--rehype:target=_blank-->
 [nihaosi.com](https://refs.nihaosi.com)<!--rehype:target=_blank-->
 [quickref.cn](https://quickref.cn)<!--rehype:target=_blank-->
@@ -609,6 +624,7 @@ Quick Reference
 [quickref.binscor.top](https://quickref.binscor.top)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [srebro.cn](https://ref.srebro.cn)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [haah.net](https://ref.haah.net)<!--rehype:target=_blank&data-info=👆每天自动同步-->
+[xiechengqi.top](https://ref.xiechengqi.top)<!--rehype:target=_blank&data-info=👆每天自动同步-->
 [laoleng.vip](http://bbs.laoleng.vip/reference/)<!--rehype:target=_blank-->
 [dbyun.net](https://www.dbyun.net/reference/index.html)<!--rehype:target=_blank-->
 [if010.com](https://quickref.if010.com/)<!--rehype:target=_blank-->
@@ -647,6 +663,10 @@ Quick Reference
 [chenchen.site](https://img.chenchen.site/reference/)<!--rehype:target=_blank-->
 [jgeek.cn](http://reference.jgeek.cn/)<!--rehype:target=_blank-->
 [itzcy.com](https://reference.itzcy.com/)<!--rehype:target=_blank-->
+[fifo.site](https://ref.fifo.site)<!--rehype:target=_blank-->
+[gaojs.com.cn](https://study.gaojs.com.cn)<!--rehype:target=_blank-->
+[15926.tech](https://ref.15926.tech)<!--rehype:target=_blank-->
+[jeffjade.com](https://codehelp.jeffjade.com)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
