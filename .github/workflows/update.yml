@@ -25,3 +25,7 @@ jobs:
       run: |
         git reset --hard upstream/gh-pages
         git push origin gh-pages --force
+
+    - name: Trigger Vercel deployment
+      run: |
+        curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
